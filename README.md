@@ -105,6 +105,7 @@ New to the plan? Read this first, then jump to [Day 1](#day-1-7-network).
 - Browse through the Linux Journey tutorials: https://linuxjourney.com/
 - Complete Linux Unhatched on Cisco NetAcad: https://www.netacad.com/courses/linux-unhatched
 - Complete all Linux Hands-on Labs on LabEx: https://labex.io/free-labs/linux
+- Work through the Linux courses on WebTerm Learn (navigation, pipes and redirects, permissions, users and groups, services, SSH) in a simulated terminal in the browser: https://learn.webterm.app/en/courses
 
 
 ## Day 29-42: Python
